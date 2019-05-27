@@ -1,0 +1,8 @@
+Origin: Vice's public cydia/zebra/sileo REPO
+Label: Vice's public REPO
+Suite: stable
+Version: 0.1
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: My public REPO with my favourite tweaks!
